@@ -1,0 +1,26 @@
+{
+  "name": "tcpforwarder-timeout",
+  "version": "0.0.0",
+  "description": "A simple TCP Forwarder with timeout support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "tcpforwarder-timeout": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yonle/tcpforwarder-timeout.git"
+  },
+  "keywords": [
+    "tcp",
+    "forwarder"
+  ],
+  "author": "Yonle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yonle/tcpforwarder-timeout/issues"
+  },
+  "homepage": "https://github.com/Yonle/tcpforwarder-timeout#readme"
+}
